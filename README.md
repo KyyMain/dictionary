@@ -8,3 +8,5 @@
 ## Output
 ![gambar](dokumentasi/o2.png)
 ![gambar](dokumentasi/o3.png)
+## Flowchart
+![gambar](dokumentasi/fc.png)
