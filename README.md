@@ -2,7 +2,7 @@
 # Latihan 1
 ![gambar](dokumentasi/latihan.png)
 ## Output
-![gambar](dokumentasi/o1.png)
+![gambar](dokumentasi/o.png)
 # Praktikum
 ![gambar](dokumentasi/praktikum.png)
 ## Output
