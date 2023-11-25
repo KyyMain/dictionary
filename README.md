@@ -9,4 +9,4 @@
 ![gambar](dokumentasi/o2.png)
 
 ## Flowchart
-![gambar](dokumentasi/fc.png)
+![gambar](dokumentasi/fw.png)
